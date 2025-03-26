@@ -92,7 +92,6 @@ Te explicamos cómo funcionan nuestros modelos, sus beneficios y cómo usarlos p
 
 **👥 LinkedIn:** https://www.linkedin.com/in/andybussines
 
-**🌐 GitHub:** README.md
 
 **💌 Email:** andymlconsulting@gmail.com
 
