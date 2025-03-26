@@ -92,8 +92,10 @@ Te explicamos cómo funcionan nuestros modelos, sus beneficios y cómo usarlos p
 
 **👥 LinkedIn:** https://www.linkedin.com/in/andybussines
 
-**🌐 GitHub:** [Tu repositorio aquí]
+**🌐 GitHub:** README.md
 
 **💌 Email:** andymlconsulting@gmail.com
+
+
 **Si estás listo para potenciar tu negocio con Inteligencia Artificial, contáctanos para una consulta sin compromiso. 🚀**
 
